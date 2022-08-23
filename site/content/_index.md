@@ -1,7 +1,7 @@
 ---
 title: ぷにぷに
 subtitle: tmyt105
-image: img/unnamed.png
+image: img/logo.png
 blurb:
   heading: トップページへようこそ
   text: sslとかの問題で移行しました(テスト)
@@ -11,5 +11,5 @@ intro:
 products: []
 values:
   heading: 　
-  text:
+  text: " "
 ---
